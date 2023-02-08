@@ -31,4 +31,4 @@ Now that you’ve completed your initial analysis, you’ll design a Flask API b
 2. Precipitation - /api/v1.0/precipitation
 3. Stations - /api/v1.0/stations
 4. Temperature - /api/v1.0/tobs
-5. Temperature on Specific Dates - /api/v1.0/<start> and /api/v1.0/<start>/<end>
+5. Temperature on Specific Dates - /api/v1.0/<start> and /api/v1.0/yyyy-mm-dd/yyyy-mm-dd
